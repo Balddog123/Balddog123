@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Balddog123
+- 👀 I’m interested in game and software development, project management, and making Italian pasta
+- 🌱 I’m currently learning git, duh
+- 💞️ I’m looking to collaborate on absolutely nothing
+- 📫 How to reach me (555) 555-5555
+- 😄 Pronouns: wee/woo
+- ⚡ Fun fact: I actually don't use pronouns.
